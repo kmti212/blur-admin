@@ -13,7 +13,7 @@
     function initialize() {
       var mapCanvas = document.getElementById('google-maps');
       var mapOptions = {
-        center: new google.maps.LatLng(44.5403, -78.5463),
+        center: new google.maps.LatLng(36.9345899,126.7458696),
         zoom: 8,
         mapTypeId: google.maps.MapTypeId.ROADMAP
       };
