@@ -4,7 +4,6 @@
  */
 (function () {
   'use strict';
-
   angular.module('BlurAdmin.pages.ui.alerts', [])
       .config(routeConfig);
 
